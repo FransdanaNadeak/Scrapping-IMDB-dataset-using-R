@@ -1,5 +1,6 @@
 # Scrapping-IMDB-dataset-using-R
 ==========================================================================
+
 This dataset contains 63,000 movie data from 2000-2020
 that scrapped from the imdb.com website using R
 
@@ -20,17 +21,17 @@ Variable:
 	Unrated    - (No certificate at all)
 	TV-PG      - Kids
 	P          - 
-3. Rank (Movie's Rank)
-4. Description (Movie's Description)
-5. Runtime (Movie's Duration in minutes)
-6. Genre (All Genre included in the movie)
-7. Metascore (The rating of a film)
-8. Gross Earning (gross earnings in U.S. dollars)
-9. Director (Main Director in the Movie)
-10.Actor (Main Actor in the Movie)
-11.Genre_1 (1st main Genre)
-12.Genre_2 (2nd main Genre)
-13.Genre_3 (3rd main Genre)
+3.  Rank (Movie's Rank)
+4.  Description (Movie's Description)
+5.  Runtime (Movie's Duration in minutes)
+6.  Genre (All Genre included in the movie)
+7.  Metascore (The rating of a film)
+8.  Gross Earning (gross earnings in U.S. dollars)
+9.  Director (Main Director in the Movie)
+10. Actor (Main Actor in the Movie)
+11. Genre_1 (1st main Genre)
+12. Genre_2 (2nd main Genre)
+13. Genre_3 (3rd main Genre)
 
 Thank you
 ==========================================================================
