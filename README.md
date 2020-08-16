@@ -7,20 +7,20 @@ that scrapped from the imdb.com website using R
 Variable:
 1. Released Yeard (2000-2020)
 2. Certificate
-     	a.R          - Passed only for persons 18 and over
-     	b.PG-13      - Teens	
-     	c.PG         - Parental Guidance for under 15
-	d.17+        - Passed only for persons 17 and over
-	e.13+        - Passed only for persons 13 and over
-	f.G          - Suitable for All
-	g.SU         - 
-	h.21+        - Passed only for persons 21 and over 
-	i.D          - Movies for adults.
-	j.Not Rated  - (No certificate at all)
-	k.NC-17      - No children below 17 years old
-	l.Unrated    - (No certificate at all)
-	m.TV-PG      - Kids
-	n.P          - 
+     R          - Passed only for persons 18 and over
+     PG-13      - Teens	
+     PG         - Parental Guidance for under 15
+     17+        - Passed only for persons 17 and over
+     13+        - Passed only for persons 13 and over
+     G          - Suitable for All
+     SU         - 
+     21+        - Passed only for persons 21 and over 
+     D          - Movies for adults.
+     Not Rated  - (No certificate at all)
+     NC-17      - No children below 17 years old
+     Unrated    - (No certificate at all)
+     TV-PG      - Kids
+     P          - 
 3.  Rank (Movie's Rank)
 4.  Description (Movie's Description)
 5.  Runtime (Movie's Duration in minutes)
